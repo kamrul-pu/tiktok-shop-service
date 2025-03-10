@@ -1,0 +1,1 @@
+from .inventory_consumer import InventoryRequestProcessWorker

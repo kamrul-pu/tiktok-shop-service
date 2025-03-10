@@ -1,2 +1,1 @@
-# tiktok-shop-service
-Toktok Shop micro service
+# mye-tiktok-service
